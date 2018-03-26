@@ -1,0 +1,47 @@
+
+/* styling for page body */
+body {
+    background-color: darkgrey;
+    color: whitesmoke;
+}
+
+#bio-photo { float: right; }
+
+/* places the main for page content below the navbar */
+body, main {
+    padding: 75px;
+}
+
+/* styling for navbar (border, etc) */
+nav {
+
+}
+
+/* text in navbar */
+nav li, .navbar-brand {
+    font-family: 'Mina', sans-serif;
+}
+
+/* for links in navbar */
+nav li {
+    font-size: 18pt;
+}
+
+/* for navbar 'brand' text */
+.navbar-brand {
+    font-size: 24pt;
+}
+
+.jumbotron {
+    background-color: #646464;
+    color: whitesmoke;
+}
+/* h1 stylings */
+h1 {
+    line-height: 48pt;
+}
+
+.card {
+    background-color: darkgrey;
+    color: whitesmoke;
+}
